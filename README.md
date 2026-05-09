@@ -19,6 +19,8 @@ AI-powered website builder where a PM Agent converts requirement documents into 
 | SEO Agent | Metadata, headings, schema markup, page copy |
 | Backend Agent | Astro API routes, form handlers, validation |
 | QA Agent | Reviews acceptance criteria, runs build checks, approves/rejects tickets |
+| Copy Agent | Writes and refines all website copy — headlines, body text, CTAs, microcopy |
+| Preview Agent | Renders frontend preview, captures screenshots, validates visual output for user review |
 
 ## Kanban Flow
 
