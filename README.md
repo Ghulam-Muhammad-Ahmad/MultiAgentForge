@@ -84,7 +84,3 @@ Build → Preview → User approval
 6. Command Permission Layer — classify, run, approve, log
 7. QA + Preview — QA review, build, preview, delivery
 
-## Docs
-
-- [`PRD.md`](PRD.md) — Product requirements
-- [`Spec-doc.md`](Spec-doc.md) — Technical specification
